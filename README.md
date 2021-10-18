@@ -2,7 +2,8 @@
 easy Calculator For Newcomer
 
 #------------For Source-------------
-First install Necessary libraries
+
+first install Necessary libraries
 and Run source
 
 #---------for .exe ---------
