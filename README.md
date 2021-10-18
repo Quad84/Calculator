@@ -1,11 +1,11 @@
 # Calculator
 easy Calculator For Newcomer
 
-#------------For Source-------------
+# For Source
 
 first install Necessary libraries
 and Run source
 
-#---------for .exe ---------
+# For .exe file
 
 double click and Open :) xD
